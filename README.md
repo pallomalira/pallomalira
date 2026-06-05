@@ -24,8 +24,8 @@ Aprendendo e desenvolvendo habilidades em Front-end, Back-end e Banco de Dados.
 - Banco de Dados: <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 
-Meu objetivo é transformar conhecimento teórico em experiência prática através da construção de aplicações e resolução de desafios de programação.
 
+🎯 Transformando conhecimento teórico em experiência prática por meio de projetos e desafios de programação.
 
 
 ---
