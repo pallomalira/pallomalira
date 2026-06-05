@@ -6,7 +6,6 @@
 
 📖 Minha Jornada Full Stack 🚀
 
-Projetos, exercícios e experimentos desenvolvidos durante meus estudos em desenvolvimento de software.
 
 Tecnologias em estudo
 
