@@ -2,7 +2,7 @@
 # ❤ Olá, eu sou a Palloma Lira!
   
 
-👩‍💻 Atualmente cursando Sistemas de Informação na Universidade Federal Rural de Pernambuco
+👩‍💻 Atualmente cursando Bacharelado em Sistemas de Informação na UFRPE
 
 📖 Minha Jornada Full Stack 🚀
 
